@@ -4,11 +4,11 @@ Apaixonado por tecnologia e aspirante a desenvolvedor.
 
 ---
 
-## 🛠️ <h4>Tecnologias que uso e estudo</h4>
+## 🛠️ Tecnologias que uso e estudo
 
 <div>
   <!-- SQL -->
-  <img src="https://vecta.io/symbols/28/microsoft-azure-color/61/sql-database-generic" height="30" width="30" alt="SQL logo" />
+  <img src="https://img.icons8.com/fluency/48/sql.png" height="30" width="30" alt="SQL logo" />
 
   <!-- Postgres -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="30" alt="SQL logo" />
