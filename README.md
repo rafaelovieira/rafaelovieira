@@ -2,8 +2,6 @@
 
 Apaixonado por tecnologia e aspirante a desenvolvedor.
 
----
-
 ## 🛠️ Tecnologias que uso e estudo
 
 <div>
