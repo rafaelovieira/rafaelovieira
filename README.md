@@ -13,7 +13,8 @@ Apaixonado por tecnologia e aspirante a desenvolvedor.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" alt="React logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="JavaScript logo" />
 </div>
-___
+
+---
 
   <a href="mailto:rafaelovieira.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
