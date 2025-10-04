@@ -6,7 +6,7 @@ Apaixonado por tecnologia e aspirante a desenvolvedor.
 
 ## 🛠️ Tecnologias que uso e estudo
 
-
+<div>
   <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="SQL logo" />
 
@@ -24,7 +24,7 @@ Apaixonado por tecnologia e aspirante a desenvolvedor.
 
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript logo" />
-
+</div>
 
 
 ---
