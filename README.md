@@ -4,15 +4,15 @@
   </a>
 </div> 
 
-> 🔹 Sou Rafael Vieira, Analista de Dados, formado em Análise e Desenvolvimento de Sistemas e cursando Desenvolvedor Fullstack com foco em desenvolvimento backend com Java e Spring.
-> Estou aprofundando meus conhecimentos em SQL, Javascript, React, HTML e CSS.
+> 🔹 <i>Sou Rafael Vieira, Analista de Dados, formado em Análise e Desenvolvimento de Sistemas e cursando Desenvolvedor Fullstack com foco em desenvolvimento backend com Java e Spring.
+Estou aprofundando meus conhecimentos em SQL, Javascript, React, HTML e CSS.</i>
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelovieira.dev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/rafaelovieira)
 
 ---
 
-**Tecnologias que uso e estudo**
+### Hard Skills:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Html logo" title="HTML"  />
