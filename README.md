@@ -35,7 +35,7 @@ Estou aprofundando meus conhecimentos em SQL, Javascript, React, HTML e CSS.</i>
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring-Boot" title="Spring-Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring-Boot" title="Spring Boot" />
   <img width="8" />
   <img src="https://img.icons8.com/fluency/48/sql.png" height="40" alt="SQL logo" title="SQL" />
   <img width="8" />
