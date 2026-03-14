@@ -4,16 +4,14 @@
   </a>
 </div> 
 
-> 🔹 <i>Analista de Dados, formado em Análise e Desenvolvimento de Sistemas e cursando Desenvolvedor Fullstack com foco em desenvolvimento backend com Java e Spring.
-Estou aprofundando meus conhecimentos em SQL, Javascript, React, HTML e CSS.</i>
+> 🔹 <i>Desenvolvedor Fullstack orientado a dados, com experiência na criação de soluções que integram desenvolvimento de software, bancos de dados e inteligência analítica. Possuo conhecimento em desenvolvimento de aplicações web utilizando Java, Spring Boot, JavaScript e React, além de domínio em SQL, PostgreSQL e ferramentas de Business Intelligence. Meu background em Engenharia e Logística proporciona uma visão sistêmica de processos de negócio, permitindo transformar dados e necessidades operacionais em soluções tecnológicas eficientes.</i>
 
 ``` json
 {
     "name": "Rafael Vieira",
-    "title": "Aspirante a desenvolvedor",
+    "title": "Desenvolvedor Fullstack",
     "focus": "Java & Spring",
-    "currently": "Analista de Dados",
-    "learning": "Fullstack Developer: Javascript, React, HTML, CSS"
+    "learning": "Spring Boot"
 }
 ```
 
